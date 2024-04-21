@@ -1,0 +1,1 @@
+print("jane khurtsidze, giorgi gvinashvili, dato gvinashvili, tatia gvinshvili, nina gvinashvili, nino kukava, dato gvinashvili, gabriel gvinashvili")
