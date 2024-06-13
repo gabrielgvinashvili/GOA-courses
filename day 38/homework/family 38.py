@@ -1,0 +1,2 @@
+family = ["jana", "giorgi", "nina", "gabrieli", "ninio" , "dato" ,  "dato" , "tatia" ,]
+print( "im " +family[3] + ", my sister is " +family[2]+ ", my mum is " +family[1]+ ", my dad is " +family[0]+ ", my grandmother is " + family[4]+ ", my grandfather is " +family[5]+ ", my uncle is " +family[6]+ ", my aunt is" +family[7])
